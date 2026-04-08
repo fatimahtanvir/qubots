@@ -135,3 +135,10 @@ python 03_bloqade_circuit.py
 ## Team
 
 QuBots — YQuantum 2026
+
+## Contribution Note
+Core quantum circuit architecture, QUBO formulation, and 
+Bloqade integration developed collaboratively by the QuBots 
+team at YQuantum 2026. See commit history for individual 
+contributions including noise analysis, CVaR stress testing, 
+and dataset pipeline.
