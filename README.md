@@ -134,7 +134,7 @@ python 03_bloqade_circuit.py
 
 ## Team
 
-QuBots — YQuantum 2026
+QuBots - YQuantum 2026
 
 ## Contribution Note
 Core quantum circuit architecture, QUBO formulation, and 
