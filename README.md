@@ -1,4 +1,4 @@
-# QuBots — Quantum Portfolio Optimisation
+# QuBots - Quantum Portfolio Optimisation
 
 **YQuantum 2026 | The Hartford & Capgemini Quantum Lab | QuEra**
 
